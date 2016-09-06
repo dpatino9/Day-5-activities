@@ -1,0 +1,26 @@
+p {
+	
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 50px;
+	letter-spacing: 5px;
+	width: 750px;
+}
+.one:hover {
+	color: pink;
+}
+.two:Active {
+	color: green;
+}
+.three:Focus {
+	color: purple;
+}
+
+.three:invalid {
+	background-color: green;
+}
+
+.navbar-collapse  {
+	background-color: gold;
+	color: red;
+}
